@@ -34,7 +34,7 @@
               <Insets bottom="20.0" right="20.0" />
           </GridPane.margin>
         </Label>
-        <TextField fx:id="username" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.hgrow="ALWAYS" GridPane.valignment="CENTER" GridPane.vgrow="ALWAYS">
+        <TextField fx:id="username" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.hgrow="ALWAYS" GridPane.valignment="CENTER" GridPane.vgrow="ALWAYS" text="admin">
            <GridPane.margin>
                <Insets bottom="20.0" right="120.0" />
            </GridPane.margin>
@@ -44,7 +44,7 @@
                <Insets right="20.0" />
            </GridPane.margin>
         </Label>
-        <TextField fx:id="password" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.hgrow="ALWAYS" GridPane.rowIndex="1" GridPane.valignment="CENTER" GridPane.vgrow="ALWAYS">
+        <TextField fx:id="password" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.hgrow="ALWAYS" GridPane.rowIndex="1" GridPane.valignment="CENTER" GridPane.vgrow="ALWAYS" text="admin">
            <GridPane.margin>
                <Insets right="120.0" />
            </GridPane.margin>

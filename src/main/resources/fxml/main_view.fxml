@@ -11,5 +11,6 @@
       xmlns:fx="http://javafx.com/fxml"
       fx:controller="com.dongpl.ticket.controller.MainController"
       prefHeight="400.0" prefWidth="600.0">
+    <JFXButton text="开启服务" onAction="#startService" buttonType="RAISED" style="-fx-background-color: green;-fx-text-fill: white"/>
     <JFXButton text="返回登录" onAction="#toBack" buttonType="RAISED" style="-fx-background-color: green;-fx-text-fill: white"/>
 </VBox>
